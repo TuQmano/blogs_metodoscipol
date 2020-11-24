@@ -1,0 +1,16 @@
+---
+title: nuevo posteo
+author: ~
+date: '2020-11-24'
+slug: nuevo-posteo
+categories: []
+tags: []
+---
+
+Este es un post
+
+```{r}
+library(polAr)
+show_available_bills()
+```
+
